@@ -3,6 +3,7 @@ Firebase를 이용해서 각 user들을 관리했습니다.
 
 ## 기술 스택
 - React 및 React Router
+- TypeScript
 - CSS / Styled - components
 
 ## 실행 방법
