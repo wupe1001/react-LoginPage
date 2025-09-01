@@ -13,7 +13,7 @@ Firebase를 이용해서 각 user들을 관리했습니다.
 - Github 연동 가능 페이지
 
 ## 실행 화면
-- 메인 페이지 (./run/main.png)
-- Github 연동 페이지 (./run/gitlogin.png)
-- 회원가입 페이지 (./run/create.png)
+- ![메인 페이지](./run/main.png)
+- ![Github 연동 페이지](./run/gitlogin.png)
+- ![회원가입 페이지](./run/create.png)
 
